@@ -1,0 +1,15 @@
+/* fonts  */
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600&display=swap");
+
+body {
+  font-family: "Poppins", sans-serif;
+}
+.slide-background {
+  background-color: #fceae8;
+}
+.button-color {
+  background: linear-gradient(180deg, #ff589b -0.01%, #ff136f 99.99%);
+  border-radius: 6px;
+  width: 168px;
+  height: 52px;
+}
